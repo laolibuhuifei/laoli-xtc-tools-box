@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="brand_primary">#6200EE</color>
+    <color name="brand_primary_dark">#3700B3</color>
+    <color name="brand_accent">#03DAC6</color>
+
+    <!-- Background & Surface -->
+    <color name="window_background">#F0F2F5</color>
+    <color name="surface_card">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1C1E21</color>
+    <color name="text_secondary">#606770</color>
+    <color name="text_on_brand">#FFFFFF</color>
+
+    <!-- Legacy / Compatibility -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_solid_normal">#6200EE</color>
+    <color name="btn_solid_pressed">#3700B3</color>
+    <color name="btn_text_white">#ffffff</color>
+</resources>

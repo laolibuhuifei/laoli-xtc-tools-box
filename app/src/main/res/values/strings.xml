@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">老李box v1.4</string>
+    <string name="button_popup">弹出</string>
+    <string name="hint_popup">请输入弹出内容</string>
+    <string name="btn_open_browser">浏览器</string>
+    <string name="btn_alarm">打开警报设置</string>
+    <string name="btn_medical">打开医疗信息</string>
+    <string name="btn_points">获取20积分</string>
+    <string name="btn_selftest">打开自检</string>
+    <string name="btn_switch_ime">切换输入法</string>
+    <string name="btn_activity_launcher">活动打开器</string>
+    <string name="hint_dpi">请输入DPI</string>
+    <string name="btn_set_dpi">修改DPI</string>
+    <string name="btn_reset_dpi">恢复默认DPI</string>
+    <string name="hint_battery">请输要修改的电量</string>
+    <string name="btn_set_battery">修改电量</string>
+    <string name="btn_reset_battery">恢复真实电量</string>
+    <string name="btn_show_touch">开启触屏显示</string>
+    <string name="btn_hide_touch">关闭触屏显示</string>
+    <string name="btn_sms_test">短信压力测试😈</string>
+    <string name="hint_shell">请输入命令</string>
+    <string name="btn_exec_shell">执行</string>
+    <string name="tv_shell_output">输出</string>
+    <string name="btn_lab">关于</string>
+    <string name="hint_browser_url">请输入网址</string>
+    <string name="by">本工具箱由老李不会飞制作   交流q群:1078234925  blibli极客之域 小红书老李不会飞  </string>
+    <string name="blog_link_text">博客:lhy.cpolar.top</string>
+    <string name="title_app_list">应用列表</string>
+    <string name="title_activity_list">活动列表</string>
+    <string name="label_wifi_adb">WiFi ADB</string>
+    <string name="wifi_adb_off">WiFi ADB 已关闭</string>
+    <string name="tips">Tips：活动打开器中长按活动名或包名即可复制</string>
+</resources>

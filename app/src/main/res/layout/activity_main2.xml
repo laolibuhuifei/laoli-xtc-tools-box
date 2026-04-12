@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:padding="16dp"
+    tools:context=".MainActivity2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/tv_about_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/by"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:layout_marginBottom="16dp"
+            android:gravity="center" />
+
+
+        <TextView
+            android:id="@+id/tv_blog_link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/blog_link_text"
+            android:textSize="16sp"
+            android:textColor="#2196F3"
+            android:textStyle="bold"
+            android:padding="8dp"
+            android:layout_marginBottom="24dp"
+            android:gravity="center" />
+        <TextView
+            android:id="@+id/tv_about_tips"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tips"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:layout_marginBottom="16dp"
+            android:gravity="center" />
+
+        <ImageView
+            android:id="@+id/iv_reward_code"
+            android:layout_width="280dp"
+            android:adjustViewBounds="true"
+            android:layout_height="wrap_content"
+            android:src="@drawable/wx"
+            android:layout_marginBottom="32dp" />
+
+    </LinearLayout>
+</ScrollView>
