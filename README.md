@@ -9,6 +9,7 @@
 5. 活动打开器
 6. 短信压力测试
 7. shell命令
+8. 目前已经上架微思应用商店https://apk.wysteam.cn/app/index.html?id=1608
 
 觉得好的话就点个star ⭐ 支持一下吧😋
 
